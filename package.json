@@ -12,7 +12,7 @@
   "author": "Ilya Trikoz <i7t@me.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SergeyShapliuk/itrcz/RNASDKTinkoff.git"
+    "url": "git+https://github.com/SergeyShapliuk/RNASDKTinkoff.git"
   },
   "homepage": "https://github.com/itrcz/RNASDKTinkoff.git",
   "license": "GNU",
